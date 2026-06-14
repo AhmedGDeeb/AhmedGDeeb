@@ -3,7 +3,7 @@
 📍 Damascus, Syria | 📞 +963 98 407 4032 | ✉️ ahmaddeebdev@gmail.com  
 
 <div align="center">
-  <img src="assets/profile.jpg" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+  <!--<img src="assets/profile.jpg" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>-->
   <h1>👋 Hi, I'm Ahmad Deeb</h1>
   <h3>Full Stack Developer | Civil Engineer | AI/Data Enthusiast</h3>
 </div>
@@ -33,7 +33,7 @@ A versatile professional with dual expertise in **software development** (Python
 ---
 
 ## **📊 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadGDeeb&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedGDeeb&show_icons=true&theme=radical)
 
 ---
 
