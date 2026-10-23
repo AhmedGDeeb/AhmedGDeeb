@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Ahmad Deeb</h1>
   <h3>Full Stack Developer | Civil Engineer | AI/Data Enthusiast</h3>
+
+  <img src="assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #4285F4;" alt="Ahmad Deeb"/>
   
   <p>
     📍 Damascus, Syria &nbsp;|&nbsp; 📞 +963 984 074 032 &nbsp;|&nbsp; ✉️ <a href="mailto:ahmaddeebdev@gmail.com">ahmaddeebdev@gmail.com</a>
