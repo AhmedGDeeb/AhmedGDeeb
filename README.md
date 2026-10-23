@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Ahmad Deeb</h1>
   <h3>Full Stack Developer | Civil Engineer | AI/Data Enthusiast</h3>
 
-  <img src="https://github.com/AhmedGDeeb.png" width="250" height="250" style="clip-path: circle(50% at 50% 50%); border-radius: 50%;" alt="Ahmad Deeb" />
+  <img src="https://github.com/AhmedGDeeb.png?size=250" width="250" height="250" style="border-radius: 50%;" alt="Ahmad Deeb" />
   
   <p>
     📍 Damascus, Syria &nbsp;|&nbsp; 📞 +963 984 074 032 &nbsp;|&nbsp; ✉️ <a href="mailto:ahmaddeebdev@gmail.com">ahmaddeebdev@gmail.com</a>
